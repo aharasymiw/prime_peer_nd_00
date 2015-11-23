@@ -1,4 +1,5 @@
 
+
 var Random = {
   returnRand: function(min, max) {
 
@@ -7,4 +8,4 @@ var Random = {
   },
 };
 
-module.export = Random;
+module.exports = Random;
