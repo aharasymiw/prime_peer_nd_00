@@ -1,0 +1,19 @@
+{
+  "name": "prime_peer_nd_00",
+  "version": "1.0.0",
+  "description": "Welcome to your Node Module Peer challenge!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aharasymiw/prime_peer_nd_00.git"
+  },
+  "author": "Andrew, Gwen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aharasymiw/prime_peer_nd_00/issues"
+  },
+  "homepage": "https://github.com/aharasymiw/prime_peer_nd_00#readme"
+}
